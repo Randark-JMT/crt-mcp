@@ -14,6 +14,10 @@
 
 ## 快速开始
 
+### 一键部署
+
+[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Randark-JMT/crt-mcp)
+
 ### 部署到 Cloudflare Workers
 
 ```bash
